@@ -1,6 +1,6 @@
 // SPI Peripheral:
 // Receives 16-bit MSB-first writes and
-// exposes five-bit configuration registers
+// exposes five-8-bit configuration registers
 
 `default_nettype none
 

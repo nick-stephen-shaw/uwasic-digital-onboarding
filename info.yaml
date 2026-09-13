@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "uwasic Onboarding"      # Project title
+  title:        "SPI Controlled PWM Peripheral"      # Project title
   author:       "Nick Shaw"      # Your name
   discord:      "floatingelephan42"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "SPI peripheral that configures output enables, PWM enables, and duty cycle for 16 output pins"      # One line description of what your project does
