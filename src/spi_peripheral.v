@@ -19,7 +19,7 @@ module spi_peripheral(
 );
 //Two flip-flop registers
 reg [1:0] sclk_sync;
-reg [1:0] copi_sync;2
+reg [1:0] copi_sync;
 reg [1:0] ncs_sync;
 
 reg sclk_prev;
